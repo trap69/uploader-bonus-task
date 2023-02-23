@@ -3,7 +3,7 @@ CSV Uploader  application using Spring Boot, H2 and React
 
 How to use
 
-1. Go to cd uploader-bonus-task/uploader/uploaderfrontend/
+1. Go to cd uploader/uploaderfrontend/
 
 2. npm i
 
